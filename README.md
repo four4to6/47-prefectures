@@ -27,5 +27,5 @@ https://japonyol.net/
 ### 47都道府県のポリゴンデータ geojson:
 https://japonyol.net/editor/article/47-prefectures-geojson.html
 
-### Geojsonファイル (※ダウンロードのうえ使用して下さい):
+### Geojsonファイル (※ダウンロードのうえ使用して下さい 直リンクすると 403 を返します):
 https://japonyol.net/editor/article/prefectures.geojson
